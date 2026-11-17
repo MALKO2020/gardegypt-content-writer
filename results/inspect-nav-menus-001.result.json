@@ -1,0 +1,415 @@
+{
+    "project": "gardegypt",
+    "role": "writer",
+    "source_job": "jobs/inspect-nav-menus-001.json",
+    "plugin_operation": "inspect_nav_menus",
+    "processed_at_gmt": "2026-11-17T22:07:21+00:00",
+    "status": "success",
+    "data": {
+        "registered_locations": {
+            "main-menu": "القائمة الرئيسية",
+            "mobile-menu": "قائمة جانبية للجوال"
+        },
+        "assigned_locations": {
+            "main-menu": 132,
+            "mobile-menu": 118
+        },
+        "menus": [
+            {
+                "menu_id": 108,
+                "name": "Footer menu Pills Content",
+                "items": [
+                    {
+                        "item_id": 1520,
+                        "title": "Facebook",
+                        "url": "https://www.facebook.com/xtemos.studio",
+                        "parent_id": 0,
+                        "type": "custom",
+                        "woodmart_meta": []
+                    },
+                    {
+                        "item_id": 1521,
+                        "title": "Twitter",
+                        "url": "https://twitter.com/i/flow/login?redirect_after_login=%2Fxtemos_studio",
+                        "parent_id": 0,
+                        "type": "custom",
+                        "woodmart_meta": []
+                    },
+                    {
+                        "item_id": 1522,
+                        "title": "Instagram",
+                        "url": "https://www.instagram.com/xtemos.studio/",
+                        "parent_id": 0,
+                        "type": "custom",
+                        "woodmart_meta": []
+                    }
+                ],
+                "locations": []
+            },
+            {
+                "menu_id": 109,
+                "name": "Footer menu Pills Copyrights",
+                "items": [
+                    {
+                        "item_id": 1523,
+                        "title": "Terms of Service",
+                        "url": "#",
+                        "parent_id": 0,
+                        "type": "custom",
+                        "woodmart_meta": []
+                    },
+                    {
+                        "item_id": 1524,
+                        "title": "Privacy Policy",
+                        "url": "#",
+                        "parent_id": 0,
+                        "type": "custom",
+                        "woodmart_meta": []
+                    },
+                    {
+                        "item_id": 1525,
+                        "title": "Store Refund Policy",
+                        "url": "#",
+                        "parent_id": 0,
+                        "type": "custom",
+                        "woodmart_meta": []
+                    }
+                ],
+                "locations": []
+            },
+            {
+                "menu_id": 110,
+                "name": "Footer menu Pills Popular",
+                "items": [],
+                "locations": []
+            },
+            {
+                "menu_id": 111,
+                "name": "Footer menu Pills Useful links",
+                "items": [
+                    {
+                        "item_id": 1546,
+                        "title": "Contact Us",
+                        "url": "https://bodyguardegy.com/contact-us/",
+                        "parent_id": 0,
+                        "type": "post_type",
+                        "woodmart_meta": []
+                    },
+                    {
+                        "item_id": 1544,
+                        "title": "Blog",
+                        "url": "https://bodyguardegy.com/blog/",
+                        "parent_id": 0,
+                        "type": "post_type",
+                        "woodmart_meta": []
+                    }
+                ],
+                "locations": []
+            },
+            {
+                "menu_id": 112,
+                "name": "Header menu Explore",
+                "items": [
+                    {
+                        "item_id": 1556,
+                        "title": "Contact Us",
+                        "url": "https://bodyguardegy.com/contact-us/",
+                        "parent_id": 0,
+                        "type": "post_type",
+                        "woodmart_meta": []
+                    },
+                    {
+                        "item_id": 1554,
+                        "title": "Blog",
+                        "url": "https://bodyguardegy.com/blog/",
+                        "parent_id": 0,
+                        "type": "post_type",
+                        "woodmart_meta": []
+                    }
+                ],
+                "locations": []
+            },
+            {
+                "menu_id": 113,
+                "name": "Header menu Pills",
+                "items": [],
+                "locations": []
+            },
+            {
+                "menu_id": 114,
+                "name": "Header menu shop vitamine #1",
+                "items": [
+                    {
+                        "item_id": 1547,
+                        "title": "Vitamin B",
+                        "url": "#",
+                        "parent_id": 0,
+                        "type": "custom",
+                        "woodmart_meta": []
+                    },
+                    {
+                        "item_id": 1548,
+                        "title": "Vitamin C",
+                        "url": "#",
+                        "parent_id": 0,
+                        "type": "custom",
+                        "woodmart_meta": []
+                    },
+                    {
+                        "item_id": 1549,
+                        "title": "Vitamin D",
+                        "url": "#",
+                        "parent_id": 0,
+                        "type": "custom",
+                        "woodmart_meta": []
+                    },
+                    {
+                        "item_id": 1550,
+                        "title": "Biotin",
+                        "url": "#",
+                        "parent_id": 0,
+                        "type": "custom",
+                        "woodmart_meta": []
+                    },
+                    {
+                        "item_id": 1551,
+                        "title": "Bilbery",
+                        "url": "#",
+                        "parent_id": 0,
+                        "type": "custom",
+                        "woodmart_meta": []
+                    },
+                    {
+                        "item_id": 1552,
+                        "title": "Calcium",
+                        "url": "#",
+                        "parent_id": 0,
+                        "type": "custom",
+                        "woodmart_meta": []
+                    },
+                    {
+                        "item_id": 1553,
+                        "title": "Cinnamon",
+                        "url": "#",
+                        "parent_id": 0,
+                        "type": "custom",
+                        "woodmart_meta": []
+                    }
+                ],
+                "locations": []
+            },
+            {
+                "menu_id": 115,
+                "name": "Header menu shop vitamine #2",
+                "items": [
+                    {
+                        "item_id": 1573,
+                        "title": "Iron",
+                        "url": "#",
+                        "parent_id": 0,
+                        "type": "custom",
+                        "woodmart_meta": []
+                    },
+                    {
+                        "item_id": 1574,
+                        "title": "Magnusium",
+                        "url": "#",
+                        "parent_id": 0,
+                        "type": "custom",
+                        "woodmart_meta": []
+                    },
+                    {
+                        "item_id": 1575,
+                        "title": "Omega-3",
+                        "url": "#",
+                        "parent_id": 0,
+                        "type": "custom",
+                        "woodmart_meta": []
+                    },
+                    {
+                        "item_id": 1576,
+                        "title": "Sterols",
+                        "url": "#",
+                        "parent_id": 0,
+                        "type": "custom",
+                        "woodmart_meta": []
+                    },
+                    {
+                        "item_id": 1577,
+                        "title": "Turmeric",
+                        "url": "#",
+                        "parent_id": 0,
+                        "type": "custom",
+                        "woodmart_meta": []
+                    },
+                    {
+                        "item_id": 1578,
+                        "title": "Zinc",
+                        "url": "#",
+                        "parent_id": 0,
+                        "type": "custom",
+                        "woodmart_meta": []
+                    }
+                ],
+                "locations": []
+            },
+            {
+                "menu_id": 116,
+                "name": "Header shop by need",
+                "items": [],
+                "locations": []
+            },
+            {
+                "menu_id": 117,
+                "name": "Main navigation",
+                "items": [
+                    {
+                        "item_id": 1722,
+                        "title": "Home",
+                        "url": "https://bodyguardegy.com/",
+                        "parent_id": 0,
+                        "type": "post_type",
+                        "woodmart_meta": []
+                    },
+                    {
+                        "item_id": 1561,
+                        "title": "Contact Us",
+                        "url": "https://bodyguardegy.com/contact-us/",
+                        "parent_id": 0,
+                        "type": "post_type",
+                        "woodmart_meta": []
+                    },
+                    {
+                        "item_id": 1563,
+                        "title": "Blog",
+                        "url": "https://bodyguardegy.com/blog/",
+                        "parent_id": 0,
+                        "type": "post_type",
+                        "woodmart_meta": []
+                    }
+                ],
+                "locations": []
+            },
+            {
+                "menu_id": 5,
+                "name": "menu",
+                "items": [
+                    {
+                        "item_id": 164,
+                        "title": "خدماتنا",
+                        "url": "https://bodyguardegy.com/%d8%ae%d8%af%d9%85%d8%a7%d8%aa%d9%86%d8%a7/",
+                        "parent_id": 0,
+                        "type": "post_type",
+                        "woodmart_meta": []
+                    },
+                    {
+                        "item_id": 167,
+                        "title": "من نحن",
+                        "url": "https://bodyguardegy.com/%d9%85%d9%86-%d9%86%d8%ad%d9%86/",
+                        "parent_id": 0,
+                        "type": "post_type",
+                        "woodmart_meta": []
+                    },
+                    {
+                        "item_id": 162,
+                        "title": "اتصل بنا",
+                        "url": "https://bodyguardegy.com/%d8%a7%d8%aa%d8%b5%d9%84-%d8%a8%d9%86%d8%a7/",
+                        "parent_id": 0,
+                        "type": "post_type",
+                        "woodmart_meta": []
+                    },
+                    {
+                        "item_id": 1093,
+                        "title": "مدونة",
+                        "url": "https://bodyguardegy.com/?page_id=119",
+                        "parent_id": 0,
+                        "type": "post_type",
+                        "woodmart_meta": []
+                    },
+                    {
+                        "item_id": 165,
+                        "title": "فريقنا",
+                        "url": "https://bodyguardegy.com/%d9%81%d8%b1%d9%8a%d9%82%d9%86%d8%a7/",
+                        "parent_id": 0,
+                        "type": "post_type",
+                        "woodmart_meta": []
+                    },
+                    {
+                        "item_id": 1091,
+                        "title": "blog",
+                        "url": "https://bodyguardegy.com/english-blog/",
+                        "parent_id": 0,
+                        "type": "custom",
+                        "woodmart_meta": []
+                    },
+                    {
+                        "item_id": 163,
+                        "title": "الأسئلة الشائعة",
+                        "url": "https://bodyguardegy.com/%d8%a7%d9%84%d8%a3%d8%b3%d8%a6%d9%84%d8%a9-%d8%a7%d9%84%d8%b4%d8%a7%d8%a6%d8%b9%d8%a9/",
+                        "parent_id": 0,
+                        "type": "post_type",
+                        "woodmart_meta": []
+                    }
+                ],
+                "locations": []
+            },
+            {
+                "menu_id": 118,
+                "name": "Mobile navigation",
+                "items": [
+                    {
+                        "item_id": 1723,
+                        "title": "Home",
+                        "url": "https://bodyguardegy.com/",
+                        "parent_id": 0,
+                        "type": "post_type",
+                        "woodmart_meta": []
+                    },
+                    {
+                        "item_id": 1581,
+                        "title": "Contact Us",
+                        "url": "https://bodyguardegy.com/contact-us/",
+                        "parent_id": 0,
+                        "type": "post_type",
+                        "woodmart_meta": []
+                    },
+                    {
+                        "item_id": 1583,
+                        "title": "Blog",
+                        "url": "https://bodyguardegy.com/blog/",
+                        "parent_id": 0,
+                        "type": "post_type",
+                        "woodmart_meta": []
+                    }
+                ],
+                "locations": [
+                    "mobile-menu"
+                ]
+            },
+            {
+                "menu_id": 132,
+                "name": "الرئيسية",
+                "items": [
+                    {
+                        "item_id": 1728,
+                        "title": "الرئيسية",
+                        "url": "https://bodyguardegy.com/",
+                        "parent_id": 0,
+                        "type": "post_type",
+                        "woodmart_meta": []
+                    }
+                ],
+                "locations": [
+                    "main-menu"
+                ]
+            }
+        ],
+        "woodmart_html_blocks": [
+            {
+                "id": 1734,
+                "title": "فوتر",
+                "status": "publish"
+            }
+        ]
+    }
+}
