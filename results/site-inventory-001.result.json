@@ -1,0 +1,2039 @@
+{
+    "project": "gardegypt",
+    "role": "writer",
+    "source_job": "jobs/site-inventory-001.json",
+    "plugin_operation": "site_inventory",
+    "processed_at_gmt": "2026-11-17T08:00:03+00:00",
+    "status": "success",
+    "data": {
+        "scope": {
+            "post_types": [
+                "page",
+                "post"
+            ],
+            "post_statuses": [
+                "publish",
+                "draft"
+            ]
+        },
+        "total": 97,
+        "counts": {
+            "page": 24,
+            "post": 73,
+            "publish": 82,
+            "draft": 15
+        },
+        "items": [
+            {
+                "post_id": 13,
+                "post_type": "page",
+                "post_status": "publish",
+                "post_name": "home-pills",
+                "post_title": "الرئيسية",
+                "post_parent": 0,
+                "relative_permalink": "/",
+                "elementor_managed": true,
+                "categories": [],
+                "rankmath": {
+                    "rank_math_title": "شركة جارد مصر  افضل شركة بودي جارد في مصر",
+                    "rank_math_description": "شركة جارد مصر  افضل شركة بودي جارد في مصر",
+                    "rank_math_focus_keyword": "شركة جارد مصر افضل شركة بودي جارد في مصر"
+                }
+            },
+            {
+                "post_id": 111,
+                "post_type": "page",
+                "post_status": "publish",
+                "post_name": "%d9%85%d9%86-%d9%86%d8%ad%d9%86",
+                "post_title": "من نحن",
+                "post_parent": 0,
+                "relative_permalink": "/%d9%85%d9%86-%d9%86%d8%ad%d9%86/",
+                "elementor_managed": true,
+                "categories": [],
+                "rankmath": {
+                    "rank_math_title": "من نحن | شركة بودي جارد مصر للحراسة الخاصة وتأمين الشخصيات",
+                    "rank_math_description": "تعرف على شركة بودي جارد مصر وخبرتنا في خدمات الحراسة الخاصة وتأمين رجال الأعمال والشخصيات العامة والحفلات داخل مصر.",
+                    "rank_math_focus_keyword": "شركة بودي جارد مصر"
+                }
+            },
+            {
+                "post_id": 113,
+                "post_type": "page",
+                "post_status": "publish",
+                "post_name": "%d9%81%d8%b1%d9%8a%d9%82%d9%86%d8%a7",
+                "post_title": "فريقنا",
+                "post_parent": 0,
+                "relative_permalink": "/%d9%81%d8%b1%d9%8a%d9%82%d9%86%d8%a7/",
+                "elementor_managed": true,
+                "categories": [],
+                "rankmath": {
+                    "rank_math_title": "فريق الخبراء | بودي جارد مصر للحراسة الخاصة VIP",
+                    "rank_math_description": "تعرف على فريق الخبراء في بودي جارد مصر والمتخصص في الحراسة الخاصة وتأمين الشخصيات والفعاليات بأعلى مستوى من الاحترافية.",
+                    "rank_math_focus_keyword": "بودي جارد مصر"
+                }
+            },
+            {
+                "post_id": 115,
+                "post_type": "page",
+                "post_status": "publish",
+                "post_name": "%d8%ae%d8%af%d9%85%d8%a7%d8%aa%d9%86%d8%a7",
+                "post_title": "خدماتنا",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%ae%d8%af%d9%85%d8%a7%d8%aa%d9%86%d8%a7/",
+                "elementor_managed": true,
+                "categories": [],
+                "rankmath": {
+                    "rank_math_title": "خدماتنا | بودي جارد وحراسة خاصة VIP في مصر",
+                    "rank_math_description": "تعرف على خدمات الحراسة الشخصية والحماية الخاصة التي تقدمها Bodyguard Egypt للأفراد ورجال الأعمال والشخصيات المهمة والزوار داخل مصر.",
+                    "rank_math_focus_keyword": "خدمات الحراسة الشخصية في مصر"
+                }
+            },
+            {
+                "post_id": 117,
+                "post_type": "page",
+                "post_status": "publish",
+                "post_name": "%d8%a7%d9%84%d8%a3%d8%b3%d8%a6%d9%84%d8%a9-%d8%a7%d9%84%d8%b4%d8%a7%d8%a6%d8%b9%d8%a9",
+                "post_title": "الأسئلة الشائعة",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%a7%d9%84%d8%a3%d8%b3%d8%a6%d9%84%d8%a9-%d8%a7%d9%84%d8%b4%d8%a7%d8%a6%d8%b9%d8%a9/",
+                "elementor_managed": true,
+                "categories": [],
+                "rankmath": {
+                    "rank_math_title": "الأسئلة الشائعة | بودي جارد مصر للحراسة الخاصة",
+                    "rank_math_description": "تعرف على إجابات أهم الأسئلة الشائعة حول خدمات بودي جارد مصر وأسعار الحراسة الخاصة وتأمين الشخصيات والفعاليات.",
+                    "rank_math_focus_keyword": "الأسئلة الشائعة"
+                }
+            },
+            {
+                "post_id": 119,
+                "post_type": "page",
+                "post_status": "draft",
+                "post_name": "%d9%85%d8%af%d9%88%d9%86%d8%a9",
+                "post_title": "مدونة",
+                "post_parent": 0,
+                "relative_permalink": "/?page_id=119",
+                "elementor_managed": true,
+                "categories": [],
+                "rankmath": {
+                    "rank_math_title": "مدونة بودي جارد مصر | أخبار ونصائح الحراسة الخاصة",
+                    "rank_math_description": "تابع أحدث أخبار الحراسة الخاصة ونصائح التأمين وحماية الشخصيات ورجال الأعمال عبر مدونة بودي جارد مصر الاحترافية.",
+                    "rank_math_focus_keyword": "مدونة بودي جارد مصر"
+                }
+            },
+            {
+                "post_id": 121,
+                "post_type": "page",
+                "post_status": "publish",
+                "post_name": "%d8%a7%d8%aa%d8%b5%d9%84-%d8%a8%d9%86%d8%a7",
+                "post_title": "اتصل بنا",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%a7%d8%aa%d8%b5%d9%84-%d8%a8%d9%86%d8%a7/",
+                "elementor_managed": true,
+                "categories": [],
+                "rankmath": {
+                    "rank_math_title": "اتصل بنا | شركة بودي جارد في مصر للحجز والاستفسارات",
+                    "rank_math_description": "تواصل الآن مع شركة بودي جارد مصر للحصول على خدمات الحراسة الخاصة وتأمين الفعاليات والشخصيات VIP على مدار الساعة.",
+                    "rank_math_focus_keyword": "شركة بودي جارد في مصر"
+                }
+            },
+            {
+                "post_id": 258,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d9%83%d9%85-%d8%aa%d8%a8%d9%84%d8%ba-%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-2026",
+                "post_title": "كم تبلغ أسعار البودي جارد في مصر 2026",
+                "post_parent": 0,
+                "relative_permalink": "/%d9%83%d9%85-%d8%aa%d8%a8%d9%84%d8%ba-%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-2026/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "اكتشف أسعار البودي جارد في مصر 2026 والعوامل التي تحدد تكلفة الحارس الشخصي، مع توضيح أسعار الحماية اليومية والشهرية وخدمات التأمين الخاصة.",
+                    "rank_math_focus_keyword": "كم تبلغ أسعار البودي جارد في مصر"
+                }
+            },
+            {
+                "post_id": 260,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d8%af%d9%84%d9%8a%d9%84-%d8%aa%d8%a3%d8%ac%d9%8a%d8%b1-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-%d8%ad%d9%85%d8%a7%d9%8a%d8%a9-%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7",
+                "post_title": "دليل تأجير بودي جارد في مصر: حماية احترافية للأفراد والمشاهير",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%af%d9%84%d9%8a%d9%84-%d8%aa%d8%a3%d8%ac%d9%8a%d8%b1-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-%d8%ad%d9%85%d8%a7%d9%8a%d8%a9-%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "دليل تأجير بودي جارد في مصر | حماية احترافية وآمنة",
+                    "rank_math_description": "تعرف على دليل تأجير بودي جارد في مصر لحماية الأفراد والمشاهير ورجال الأعمال. نوفر حراسًا شخصيين محترفين بخطط أمنية مرنة، استجابة سريعة، وسرية تامة على مدار الساعة.",
+                    "rank_math_focus_keyword": "تأجير بودي جارد في مصر"
+                }
+            },
+            {
+                "post_id": 270,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d8%ad%d9%85%d8%a7%d9%8a%d8%a9-%d8%b4%d8%ae%d8%b5%d9%8a%d8%a9-%d9%83%d8%a7%d9%85%d9%84%d8%a9-%d8%a3%d9%8a%d9%86%d9%85%d8%a7-%d8%b0%d9%87%d8%a8%d8%aa-%d8%a3%d9%81%d8%b6%d9%84-%d8%a8%d9%88%d8%af%d9%8a",
+                "post_title": "حماية شخصية كاملة أينما ذهبت | أفضل بودي جارد في مصر خاصة",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%ad%d9%85%d8%a7%d9%8a%d8%a9-%d8%b4%d8%ae%d8%b5%d9%8a%d8%a9-%d9%83%d8%a7%d9%85%d9%84%d8%a9-%d8%a3%d9%8a%d9%86%d9%85%d8%a7-%d8%b0%d9%87%d8%a8%d8%aa-%d8%a3%d9%81%d8%b6%d9%84-%d8%a8%d9%88%d8%af%d9%8a/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "",
+                    "rank_math_focus_keyword": "أفضل بودي جارد في مصر"
+                }
+            },
+            {
+                "post_id": 275,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d8%ad%d8%a7%d8%b1%d8%b3-%d8%b4%d8%ae%d8%b5%d9%8a-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-2026",
+                "post_title": "بودي جارد حارس شخصي في مصر 2026",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d8%ad%d8%a7%d8%b1%d8%b3-%d8%b4%d8%ae%d8%b5%d9%8a-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-2026/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "احجز خدمة بودي جارد حارس شخصي في مصر 2026 مع فريق أمني مدرب لتوفير الحماية الشخصية، وتأمين رجال الأعمال وكبار الشخصيات والفعاليات على مدار الساعة.",
+                    "rank_math_focus_keyword": "بودي جارد حارس شخصي في مصر 2026"
+                }
+            },
+            {
+                "post_id": 278,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-2026-%d8%ad%d9%85%d8%a7%d9%8a%d8%a9-%d9%81%d8%a7%d8%ae%d8%b1%d8%a9-%d9%84%d8%b6%d9%85%d8%a7%d9%86-%d8%b3%d9%84%d8%a7",
+                "post_title": "بودي جارد في مصر 2026: حماية فاخرة لضمان سلامتك في كل مكان",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-2026-%d8%ad%d9%85%d8%a7%d9%8a%d8%a9-%d9%81%d8%a7%d8%ae%d8%b1%d8%a9-%d9%84%d8%b6%d9%85%d8%a7%d9%86-%d8%b3%d9%84%d8%a7/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "بودي جارد في مصر 2026 | حماية شخصية وحراسة احترافية",
+                    "rank_math_description": "احجز خدمة بودي جارد في مصر 2026 مع فريق أمني محترف يوفر حماية شخصية، وتأمين الفعاليات وكبار الشخصيات، واستجابة سريعة على مدار 24 ساعة.",
+                    "rank_math_focus_keyword": "بودي جارد في مصر 2026"
+                }
+            },
+            {
+                "post_id": 282,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-%d8%a7%d9%84%d8%ad%d8%a7%d8%b1%d8%b3-%d8%a7%d9%84%d8%b4%d8%ae%d8%b5%d9%8a-%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d8%aa%d9%83",
+                "post_title": "بودي جارد في مصر: الحارس الشخصي لحمايتك بأعلى مستويات الأمان",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-%d8%a7%d9%84%d8%ad%d8%a7%d8%b1%d8%b3-%d8%a7%d9%84%d8%b4%d8%ae%d8%b5%d9%8a-%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d8%aa%d9%83/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "",
+                    "rank_math_focus_keyword": ""
+                }
+            },
+            {
+                "post_id": 325,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d9%81%d8%b9%d8%a7%d9%84%d8%a9-%d9%81%d9%8a-%d8%b9%d8%a7%d9%84",
+                "post_title": "بودي جارد في مصر الحماية الفعالة في عالم متغير",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d9%81%d8%b9%d8%a7%d9%84%d8%a9-%d9%81%d9%8a-%d8%b9%d8%a7%d9%84/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "تعرف على أهمية خدمات البودي جارد في مصر ودورها في توفير الحماية الشخصية وتأمين الأفراد والفعاليات باحترافية، مع استجابة سريعة وخطط أمنية متكاملة.",
+                    "rank_math_focus_keyword": "بودي جارد في مصر"
+                }
+            },
+            {
+                "post_id": 327,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d9%84%d9%85%d8%a7%d8%b0%d8%a7-%d8%a3%d9%81%d8%b6%d9%84-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d8%a7%d9%84%d9%82%d8%a7%d9%87%d8%b1%d8%a9%d8%9f-%d8%aa%d8%ac%d8%a7%d8%b1%d8%a8",
+                "post_title": "لماذا أفضل بودي جارد في القاهرة؟ تجاربي الشخصية",
+                "post_parent": 0,
+                "relative_permalink": "/%d9%84%d9%85%d8%a7%d8%b0%d8%a7-%d8%a3%d9%81%d8%b6%d9%84-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d8%a7%d9%84%d9%82%d8%a7%d9%87%d8%b1%d8%a9%d8%9f-%d8%aa%d8%ac%d8%a7%d8%b1%d8%a8/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "",
+                    "rank_math_focus_keyword": "أفضل بودي جارد في القاهرة"
+                }
+            },
+            {
+                "post_id": 355,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d8%a3%d9%81%d8%b6%d9%84-%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%ad%d8%b1%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d8%ae%d8%a7%d8%b5%d8%a9-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-%d8%ae%d8%b5%d9%88%d9%85%d8%a7",
+                "post_title": "أفضل شركات الحراسة الخاصة في مصر | خصومات مميز تصل الى 20%",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%a3%d9%81%d8%b6%d9%84-%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%ad%d8%b1%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d8%ae%d8%a7%d8%b5%d8%a9-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-%d8%ae%d8%b5%d9%88%d9%85%d8%a7/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "أفضل شركات الحراسة الخاصة في مصر 2026 | خصم يصل إلى 20%",
+                    "rank_math_description": "احصل على حماية احترافية مع أفضل شركات الحراسة الخاصة في مصر، شركة بودي جارد مصر بخصم 20% لفترة محدودة. اتصل الآن: 02011112970671+",
+                    "rank_math_focus_keyword": "أفضل شركات الحراسة الخاصة في مصر"
+                }
+            },
+            {
+                "post_id": 357,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d8%a3%d9%81%d8%b6%d9%84-%d8%b4%d8%b1%d9%83%d8%a9-%d8%ad%d8%b1%d8%a7%d8%b3%d8%a9-%d8%ae%d8%a7%d8%b5%d8%a9-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-2026-%d8%aa%d8%b9%d8%b1%d9%81-%d8%b9%d9%84%d9%89-%d8%a3",
+                "post_title": "أفضل شركة حراسة خاصة في مصر 2026 | تعرف على أفضل شركة بودي جارد في مصر 2026",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%a3%d9%81%d8%b6%d9%84-%d8%b4%d8%b1%d9%83%d8%a9-%d8%ad%d8%b1%d8%a7%d8%b3%d8%a9-%d8%ae%d8%a7%d8%b5%d8%a9-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-2026-%d8%aa%d8%b9%d8%b1%d9%81-%d8%b9%d9%84%d9%89-%d8%a3/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "تواصل مع أفضل شركة حراسة خاصة في مصر 2026، شركة بودي جارد مصر توفر حماية احترافية وتأمين شامل للأفراد والمنشآت. اتصل الآن: 0201112970671+",
+                    "rank_math_focus_keyword": "أفضل شركة حراسة خاصة في مصر"
+                }
+            },
+            {
+                "post_id": 360,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%ad%d8%b1%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d8%b4%d8%ae%d8%b5%d9%8a%d8%a9-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-2026",
+                "post_title": "أسعار خدمات الحراسة الشخصية في مصر 2026",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%ad%d8%b1%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d8%b4%d8%ae%d8%b5%d9%8a%d8%a9-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-2026/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "تعرف على أسعار خدمات الحراسة الشخصية في مصر 2026 مع شركة بودي جارد مصر، نضمن لك الأمان والاحترافية بأفضل سعر. اتصل بنا: 0201112970671+",
+                    "rank_math_focus_keyword": "الحراسة الشخصية في مصر"
+                }
+            },
+            {
+                "post_id": 363,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d8%b4%d8%b1%d9%83%d8%a9-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-%d9%83%d9%84-%d9%85%d8%a7-%d8%aa%d8%ad%d8%aa%d8%a7%d8%ac-%d9%85%d8%b9%d8%b1%d9%81%d8%aa",
+                "post_title": "شركة بودي جارد في مصر: كل ما تحتاج معرفته عن خدمات الحماية الشخصية",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%b4%d8%b1%d9%83%d8%a9-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-%d9%83%d9%84-%d9%85%d8%a7-%d8%aa%d8%ad%d8%aa%d8%a7%d8%ac-%d9%85%d8%b9%d8%b1%d9%81%d8%aa/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "شركة بودي جارد في مصر 2026 | خدمات حماية وحراسة خاصة",
+                    "rank_math_description": "تواصل مع أفضل شركة بودي جارد في مصر للحصول على حماية شخصية احترافية وتأمين شامل لكافة المنشآت بأعلى معايير الأمان. اتصل بنا: 02011112970671+",
+                    "rank_math_focus_keyword": "شركة بودي جارد في مصر"
+                }
+            },
+            {
+                "post_id": 396,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%ad%d8%b1%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d8%b4%d8%ae%d8%b5%d9%8a%d8%a9-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-2026-%d8%a7%d9%84%d8%a3%d9%85%d8%a7%d9%86-%d8%a7",
+                "post_title": "خدمات الحراسة الشخصية في مصر 2026: الأمان الاحترافي في عالم مليء بالتحديا",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%ad%d8%b1%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d8%b4%d8%ae%d8%b5%d9%8a%d8%a9-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-2026-%d8%a7%d9%84%d8%a3%d9%85%d8%a7%d9%86-%d8%a7/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "خدمات الحراسة الشخصية في مصر 2026 | حماية وأمان احترافي",
+                    "rank_math_description": "خدمات الحراسة الشخصية في مصر أعلى مستويات الأمان والحماية للأفراد والعائلات، مع حلول احترافية تناسب كل الاحتياجات في عالم مليء بالتحديات..",
+                    "rank_math_focus_keyword": "خدمات الحراسة الشخصية في مصر"
+                }
+            },
+            {
+                "post_id": 402,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d8%a3%d9%81%d8%b6%d9%84-%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-2026",
+                "post_title": "أفضل شركات بودي جارد في مصر 2026",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%a3%d9%81%d8%b6%d9%84-%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-2026/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "بدأ الكثيرون في البحث عن أفضل شركات بودي جارد في مصر 2026 التي يمكنها توفير مستوى عالٍ من الحماية والاحترافية.",
+                    "rank_math_focus_keyword": "أفضل شركات بودي جارد في مصر"
+                }
+            },
+            {
+                "post_id": 412,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d8%a3%d9%81%d8%b6%d9%84-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-2026-25-%d8%ad%d8%a7%d8%b1%d8%b3-%d8%b4%d8%ae%d8%b5%d9%8a-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-%d8%ae",
+                "post_title": "أفضل بودي جارد في مصر 2026 | حماية احترافية بخصم 25%",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%a3%d9%81%d8%b6%d9%84-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-2026-25-%d8%ad%d8%a7%d8%b1%d8%b3-%d8%b4%d8%ae%d8%b5%d9%8a-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-%d8%ae/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "أفضل بودي جارد في مصر 2026 | خصم 25% على الخدمة",
+                    "rank_math_description": "احجز أفضل خدمة بودي جارد وحارس شخصي في مصر 2026 بخصم 25%. فريق أمني محترف لحماية الشخصيات المهمة، وتأمين الفعاليات، واستجابة سريعة على مدار 24 ساعة.",
+                    "rank_math_focus_keyword": "بودي جارد في مصر"
+                }
+            },
+            {
+                "post_id": 414,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d8%a3%d8%b1%d8%ae%d8%b5-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-%d8%ad%d9%85%d8%a7%d9%8a%d8%a9-%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d9%81%d9%8a%d8%a9-%d8%a8%d8%b3",
+                "post_title": "أرخص بودي جارد في مصر: حماية احترافية بسعر مناسب دون التنازل عن الأمان",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%a3%d8%b1%d8%ae%d8%b5-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-%d8%ad%d9%85%d8%a7%d9%8a%d8%a9-%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d9%81%d9%8a%d8%a9-%d8%a8%d8%b3/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "أرخص بودي جارد في مصر | حماية احترافية بأسعار مناسبة",
+                    "rank_math_description": "احصل على أرخص خدمة بودي جارد في مصر مع حماية شخصية احترافية وأسعار تنافسية. حراس أمن مدربون لتأمين الأفراد والفعاليات ورجال الأعمال دون التنازل عن الجودة والأمان.",
+                    "rank_math_focus_keyword": "أرخص بودي جارد في مصر"
+                }
+            },
+            {
+                "post_id": 416,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%ad%d8%b1%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d8%b4%d8%ae%d8%b5%d9%8a%d8%a9-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-%d8%a7%d9%84%d8%a3%d9%85%d8%a7%d9%86-%d8%a7%d9%84",
+                "post_title": "خدمات الحراسة الشخصية في مصر: الأمان الاحترافي في عالم مليء بالتحديات",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%ad%d8%b1%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d8%b4%d8%ae%d8%b5%d9%8a%d8%a9-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-%d8%a7%d9%84%d8%a3%d9%85%d8%a7%d9%86-%d8%a7%d9%84/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "خدمات الحراسة الشخصية في مصر | حماية احترافية وأمان متكامل",
+                    "rank_math_description": "اكتشف خدمات الحراسة الشخصية في مصر بأعلى معايير الاحترافية. نوفر بودي جارد مدربًا لحماية الشخصيات ورجال الأعمال والفعاليات مع استجابة سريعة وخطط أمنية تناسب احتياجاتك.",
+                    "rank_math_focus_keyword": "خدمات الحراسة الشخصية في مصر"
+                }
+            },
+            {
+                "post_id": 418,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d9%83%d9%8a%d9%81-%d9%8a%d8%b9%d9%85%d9%84-%d8%a7%d9%84%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1%d8%9f-%d8%af%d9%84%d9%8a%d9%84-%d8%b4%d8%a7%d9%85%d9%84-%d9%84",
+                "post_title": "كيف يعمل البودي جارد في مصر؟ دليل شامل لأقوى أساليب الحماية",
+                "post_parent": 0,
+                "relative_permalink": "/%d9%83%d9%8a%d9%81-%d9%8a%d8%b9%d9%85%d9%84-%d8%a7%d9%84%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1%d8%9f-%d8%af%d9%84%d9%8a%d9%84-%d8%b4%d8%a7%d9%85%d9%84-%d9%84/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 23,
+                        "name": "أدلة الحماية الشخصية",
+                        "slug": "%d8%a3%d8%af%d9%84%d8%a9-%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%b4%d8%ae%d8%b5%d9%8a%d8%a9"
+                    },
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "",
+                    "rank_math_focus_keyword": "كيف يعمل البودي جارد في مصر"
+                }
+            },
+            {
+                "post_id": 421,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d9%83%d9%85-%d8%aa%d8%a8%d9%84%d8%ba-%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1%d8%9f-%d8%aa%d8%b9%d8%b1%d9%81-%d8%b9",
+                "post_title": "كم تبلغ أسعار البودي جارد في مصر؟ تعرف على التكلفة والعوامل التي تحددها",
+                "post_parent": 0,
+                "relative_permalink": "/%d9%83%d9%85-%d8%aa%d8%a8%d9%84%d8%ba-%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1%d8%9f-%d8%aa%d8%b9%d8%b1%d9%81-%d8%b9/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "كم تبلغ أسعار البودي جارد في مصر؟ التكلفة والعوامل المؤثرة",
+                    "rank_math_description": "تعرف على أسعار البودي جارد في مصر، وأهم العوامل التي تحدد تكلفة الحراسة الشخصية، مع دليل يساعدك على اختيار الخدمة المناسبة لاحتياجاتك وميزانيتك.",
+                    "rank_math_focus_keyword": "أسعار البودي جارد في مصر"
+                }
+            },
+            {
+                "post_id": 423,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d9%84%d9%85%d8%a7%d8%b0%d8%a7-%d9%8a%d8%b9%d8%aa%d8%a8%d8%b1-%d8%a3%d9%81%d8%b6%d9%84-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%84%d9%84%d8%a3%d9%85%d9%86-%d9%88%d8%a7%d9%84%d8%ad%d8%b1",
+                "post_title": "لماذا يعتبر أفضل بودي جارد للأمن والحراسة الخيار الأمثل للأمان الشخصي",
+                "post_parent": 0,
+                "relative_permalink": "/%d9%84%d9%85%d8%a7%d8%b0%d8%a7-%d9%8a%d8%b9%d8%aa%d8%a8%d8%b1-%d8%a3%d9%81%d8%b6%d9%84-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%84%d9%84%d8%a3%d9%85%d9%86-%d9%88%d8%a7%d9%84%d8%ad%d8%b1/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "لماذا أفضل بودي جارد للأمن والحراسة هو خيارك الأمثل؟",
+                    "rank_math_description": "تعرف على أسباب اختيار أفضل بودي جارد للأمن والحراسة، وكيف توفر خدمات الحماية الشخصية أعلى مستويات الأمان للأفراد ورجال الأعمال والفعاليات باحترافية.",
+                    "rank_math_focus_keyword": "أفضل بودي جارد للأمن والحراسة"
+                }
+            },
+            {
+                "post_id": 425,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%ad%d8%b1%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d9%87%d9%8a%d8%b1-%d9%88%d8%b1%d8%ac%d8%a7%d9%84-%d8%a7%d9%84%d8%a3%d8%b9%d9%85%d8%a7%d9%84-%d9%88%d8%a7",
+                "post_title": "خدمات حراسة المشاهير ورجال الأعمال والشخصيات الهامة المتكاملة",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%ad%d8%b1%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d9%87%d9%8a%d8%b1-%d9%88%d8%b1%d8%ac%d8%a7%d9%84-%d8%a7%d9%84%d8%a3%d8%b9%d9%85%d8%a7%d9%84-%d9%88%d8%a7/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "",
+                    "rank_math_focus_keyword": ""
+                }
+            },
+            {
+                "post_id": 427,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d8%af%d9%84%d9%8a%d9%84-%d8%aa%d8%a3%d8%ac%d9%8a%d8%b1-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-%d8%ad%d9%85%d8%a7%d9%8a%d8%a9-%d8%a7%d8%ad%d8%aa%d8%b1-2",
+                "post_title": "دليل تأجير بودي جارد في مصر | حماية احترافية للأفراد والمشاهير",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%af%d9%84%d9%8a%d9%84-%d8%aa%d8%a3%d8%ac%d9%8a%d8%b1-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-%d8%ad%d9%85%d8%a7%d9%8a%d8%a9-%d8%a7%d8%ad%d8%aa%d8%b1-2/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "",
+                    "rank_math_focus_keyword": "تأجير بودي جارد في مصر"
+                }
+            },
+            {
+                "post_id": 429,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d9%83%d9%84-%d9%85%d8%a7-%d8%aa%d8%ad%d8%aa%d8%a7%d8%ac-%d9%85%d8%b9%d8%b1%d9%81%d8%aa%d9%87-%d8%b9%d9%86-%d9%85%d8%b1%d8%a7%d9%81%d9%82%d8%a9-%d9%88%d8%ad%d8%b1%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d8%b4",
+                "post_title": "كل ما تحتاج معرفته عن مرافقة وحراسة الشخصيات الهامة وخدمات البودي جارد",
+                "post_parent": 0,
+                "relative_permalink": "/%d9%83%d9%84-%d9%85%d8%a7-%d8%aa%d8%ad%d8%aa%d8%a7%d8%ac-%d9%85%d8%b9%d8%b1%d9%81%d8%aa%d9%87-%d8%b9%d9%86-%d9%85%d8%b1%d8%a7%d9%81%d9%82%d8%a9-%d9%88%d8%ad%d8%b1%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d8%b4/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "",
+                    "rank_math_focus_keyword": ""
+                }
+            },
+            {
+                "post_id": 431,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d9%83%d9%84-%d9%85%d8%a7-%d8%aa%d8%ad%d8%aa%d8%a7%d8%ac-%d9%85%d8%b9%d8%b1%d9%81%d8%aa%d9%87-%d8%b9%d9%86-%d9%85%d8%b9%d8%af%d8%a7%d8%aa-%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%b4",
+                "post_title": "كل ما تحتاج معرفته عن معدات الحماية الشخصية في مكان العمل",
+                "post_parent": 0,
+                "relative_permalink": "/%d9%83%d9%84-%d9%85%d8%a7-%d8%aa%d8%ad%d8%aa%d8%a7%d8%ac-%d9%85%d8%b9%d8%b1%d9%81%d8%aa%d9%87-%d8%b9%d9%86-%d9%85%d8%b9%d8%af%d8%a7%d8%aa-%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%b4/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "",
+                    "rank_math_focus_keyword": ""
+                }
+            },
+            {
+                "post_id": 436,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d8%a3%d9%81%d8%b6%d9%84-%d9%85%d9%83%d8%a7%d9%86-%d9%84%d8%b7%d9%84%d8%a8-%d8%ad%d8%a7%d8%b1%d8%b3-%d8%b4%d8%ae%d8%b5%d9%8a-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-%d8%a8%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%a7",
+                "post_title": "أفضل مكان لطلب حارس شخصي في مصر بخدمات احترافية متكاملة",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%a3%d9%81%d8%b6%d9%84-%d9%85%d9%83%d8%a7%d9%86-%d9%84%d8%b7%d9%84%d8%a8-%d8%ad%d8%a7%d8%b1%d8%b3-%d8%b4%d8%ae%d8%b5%d9%8a-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-%d8%a8%d8%ae%d8%af%d9%85%d8%a7%d8%aa-%d8%a7/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "أفضل مكان لطلب حارس شخصي في مصر بخدمات احترافية",
+                    "rank_math_description": "ابحث عن أفضل مكان لطلب حارس شخصي في مصر بخدمات أمنية احترافية تشمل الحماية الشخصية، وتأمين الفعاليات، ومرافقة رجال الأعمال، مع استجابة سريعة على مدار 24 ساعة.",
+                    "rank_math_focus_keyword": "حارس شخصي في مصر"
+                }
+            },
+            {
+                "post_id": 438,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d8%a3%d9%81%d8%b6%d9%84-%d8%ad%d8%a7%d8%b1%d8%b3-%d8%b4%d8%ae%d8%b5%d9%8a-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-%d8%af%d9%84%d9%8a%d9%84%d9%83-%d8%a7%d9%84%d8%b4%d8%a7%d9%85%d9%84-%d9%84%d8%a7%d8%ae",
+                "post_title": "أفضل حارس شخصي في مصر | دليلك الشامل لاختيار الحماية الاحترافية للأفراد والمناسبات",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%a3%d9%81%d8%b6%d9%84-%d8%ad%d8%a7%d8%b1%d8%b3-%d8%b4%d8%ae%d8%b5%d9%8a-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-%d8%af%d9%84%d9%8a%d9%84%d9%83-%d8%a7%d9%84%d8%b4%d8%a7%d9%85%d9%84-%d9%84%d8%a7%d8%ae/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "تعرف على أفضل طرق اختيار أفضل حارس شخصي في مصر لحماية الأفراد والمناسبات مع معايير احترافية وخدمات أمنية عالية الجودة تضمن لك الأمان الكامل.",
+                    "rank_math_focus_keyword": "أفضل حارس شخصي في مصر"
+                }
+            },
+            {
+                "post_id": 487,
+                "post_type": "post",
+                "post_status": "draft",
+                "post_name": "",
+                "post_title": "خدمة تأجير حارس شخصي",
+                "post_parent": 0,
+                "relative_permalink": "/?p=487",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "",
+                    "rank_math_focus_keyword": ""
+                }
+            },
+            {
+                "post_id": 489,
+                "post_type": "post",
+                "post_status": "draft",
+                "post_name": "",
+                "post_title": "نظام بودي جارد للحراسة",
+                "post_parent": 0,
+                "relative_permalink": "/?p=489",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "",
+                    "rank_math_focus_keyword": ""
+                }
+            },
+            {
+                "post_id": 491,
+                "post_type": "post",
+                "post_status": "draft",
+                "post_name": "",
+                "post_title": "أفضل شركة بودي جارد للحراسة والأمن وخدماتها المتميزة",
+                "post_parent": 0,
+                "relative_permalink": "/?p=491",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "",
+                    "rank_math_focus_keyword": ""
+                }
+            },
+            {
+                "post_id": 493,
+                "post_type": "post",
+                "post_status": "draft",
+                "post_name": "",
+                "post_title": "أفضل حراسات خاصة وبودي جارد لحماية الأفراد والممتلكات",
+                "post_parent": 0,
+                "relative_permalink": "/?p=493",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "",
+                    "rank_math_focus_keyword": ""
+                }
+            },
+            {
+                "post_id": 495,
+                "post_type": "post",
+                "post_status": "draft",
+                "post_name": "",
+                "post_title": "مطلوب بودي جارد لرجل أعمال",
+                "post_parent": 0,
+                "relative_permalink": "/?p=495",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "",
+                    "rank_math_focus_keyword": "مطلوب بودي جارد لرجل أعمال"
+                }
+            },
+            {
+                "post_id": 650,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d8%b1%d9%82%d9%85-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%85%d8%b5%d8%b1",
+                "post_title": "رقم بودي جارد مصر 24 ساعة 201112970671",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%b1%d9%82%d9%85-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%85%d8%b5%d8%b1/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "رقم بودي جارد مصر 24 ساعة - بودي جارد مصر",
+                    "rank_math_description": "اتصل على 201112970671 للحصول على خدمات بودي جارد وحراسة خاصة في مصر 24 ساعة، مع فرق أمنية مدربة لتأمين الأفراد والمنشآت والفعاليات.",
+                    "rank_math_focus_keyword": "رقم بودي جارد مصر"
+                }
+            },
+            {
+                "post_id": 657,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1",
+                "post_title": "بودي جارد في مصر – خدمات الحراسة الشخصية للأجانب والسياح",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "خدمات بودي جارد في مصر لتأمين الأجانب والسياح ورجال الأعمال بأعلى مستويات الحماية والسرية، مع فرق حراسة مدربة وخطط أمنية تناسب جميع الاحتياجات.",
+                    "rank_math_focus_keyword": "بودي جارد في مصر"
+                }
+            },
+            {
+                "post_id": 738,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-2026-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%85%d8%b5%d8%b1",
+                "post_title": "أسعار البودي جارد في مصر 2026 - بودي جارد مصر",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%a7%d9%84%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-2026-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%85%d8%b5%d8%b1/",
+                "elementor_managed": true,
+                "categories": [
+                    {
+                        "term_id": 21,
+                        "name": "الأسعار والتكلفة",
+                        "slug": "%d8%a7%d9%84%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d9%88%d8%a7%d9%84%d8%aa%d9%83%d9%84%d9%81%d8%a9"
+                    },
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "تعرف على أسعار البودي جارد في مصر 2026 وأهم العوامل التي تحدد تكلفة الحراسة الشخصية، مع خدمات حماية الشخصيات ورجال الأعمال وتأمين الفعاليات من بودي جارد مصر.",
+                    "rank_math_focus_keyword": "أسعار البودي جارد في مصر"
+                }
+            },
+            {
+                "post_id": 743,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d8%aa%d8%a3%d8%ac%d9%8a%d8%b1-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-%d8%a8%d8%a7%d9%84%d8%b3%d8%a7%d8%b9%d8%a9",
+                "post_title": "تأجير بودي جارد في مصر – بالساعة أو اليوم أو الشهر",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%aa%d8%a3%d8%ac%d9%8a%d8%b1-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-%d8%a8%d8%a7%d9%84%d8%b3%d8%a7%d8%b9%d8%a9/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "خدمات تأجير بودي جارد في مصر بالساعة أو اليوم أو الشهر للحماية الشخصية وتأمين الشخصيات الهامة ورجال الأعمال والوفود بأعلى مستويات الاحترافية والأمان.",
+                    "rank_math_focus_keyword": "تأجير بودي جارد في مصر"
+                }
+            },
+            {
+                "post_id": 750,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d8%a7%d8%ad%d8%ac%d8%b2-%d8%ad%d8%a7%d8%b1%d8%b3-%d8%b4%d8%ae%d8%b5%d9%8a-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1",
+                "post_title": "احجز حارس شخصي في مصر مع شركة بودي جارد مصر",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%a7%d8%ad%d8%ac%d8%b2-%d8%ad%d8%a7%d8%b1%d8%b3-%d8%b4%d8%ae%d8%b5%d9%8a-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "احجز حارس شخصي في مصر مع شركة بودي جارد مصر واستفد من خدمات الحراسة الشخصية الاحترافية للشخصيات الهامة ورجال الأعمال والفعاليات الخاصة.",
+                    "rank_math_focus_keyword": "احجز حارس شخصي في مصر"
+                }
+            },
+            {
+                "post_id": 755,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d8%b4%d8%b1%d9%83%d8%a9-%d8%ad%d8%b1%d8%a7%d8%b3%d8%a7%d8%aa-%d8%ae%d8%a7%d8%b5%d8%a9-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1",
+                "post_title": "شركة حراسات خاصة في مصر لحماية الأفراد والمنشآت باحترافية",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%b4%d8%b1%d9%83%d8%a9-%d8%ad%d8%b1%d8%a7%d8%b3%d8%a7%d8%aa-%d8%ae%d8%a7%d8%b5%d8%a9-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "تعرف على خدمات شركة حراسات خاصة في مصر لتأمين الأفراد والمنشآت والفعاليات. فريق أمني مدرب وحلول حماية موثوقة على مدار الساعة.",
+                    "rank_math_focus_keyword": "شركة حراسات خاصة في مصر"
+                }
+            },
+            {
+                "post_id": 764,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d9%81%d8%b1%d9%8a%d9%82-%d8%ac%d8%a7%d8%b1%d8%af%d8%a7%d8%aa-%d9%85%d8%b5%d8%b1-%d9%84%d9%84%d8%ad%d8%b1%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d8%ae%d8%a7%d8%b5%d8%a9",
+                "post_title": "جاردات مصر — فريق حراسة متخصص للشخصيات الهامة",
+                "post_parent": 0,
+                "relative_permalink": "/%d9%81%d8%b1%d9%8a%d9%82-%d8%ac%d8%a7%d8%b1%d8%af%d8%a7%d8%aa-%d9%85%d8%b5%d8%b1-%d9%84%d9%84%d8%ad%d8%b1%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d8%ae%d8%a7%d8%b5%d8%a9/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "لماذا يثق كبار الشخصيات في فريق جاردات مصر للحراسة الخاصة؟",
+                    "rank_math_description": "جاردات مصر تقدم خدمات حراسة متخصصة للشخصيات الهامة وكبار الشخصيات، مع فريق أمني محترف ومدرب لضمان أعلى مستويات الحماية والأمان في جميع الأوقات والمناسبات. (155 حرفًا)",
+                    "rank_math_focus_keyword": "جاردات مصر"
+                }
+            },
+            {
+                "post_id": 767,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d8%a3%d9%81%d8%b6%d9%84-%d8%b4%d8%b1%d9%83%d8%a9-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1",
+                "post_title": "أفضل شركة بودي جارد في مصر | حراسة خاصة وتأمين الشخصيات الهامة",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%a3%d9%81%d8%b6%d9%84-%d8%b4%d8%b1%d9%83%d8%a9-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "أفضل شركة بودي جارد في مصر 2026 | حراسة وحماية احترافية",
+                    "rank_math_description": "هل تبحث عن أفضل شركة بودي جارد في مصر؟ احصل على خدمات حراسة خاصة احترافية وتأمين الشخصيات الهامة بأعلى معايير الأمان والسرية على مدار 24 ساعة. (156 حرفًا)",
+                    "rank_math_focus_keyword": "شركة بودي جارد"
+                }
+            },
+            {
+                "post_id": 772,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d8%ac%d8%a7%d8%b1%d8%af-%d9%85%d8%b5%d8%b1-%d9%84%d9%84%d8%ad%d8%b1%d8%a7%d8%b3%d8%a7%d8%aa-%d8%a7%d9%84%d8%ae%d8%a7%d8%b5%d8%a9",
+                "post_title": "جارد مصر للحراسات الخاصة | حماية الشخصيات الهامة بمصر",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%ac%d8%a7%d8%b1%d8%af-%d9%85%d8%b5%d8%b1-%d9%84%d9%84%d8%ad%d8%b1%d8%a7%d8%b3%d8%a7%d8%aa-%d8%a7%d9%84%d8%ae%d8%a7%d8%b5%d8%a9/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "تعرف على خدمات جارد مصر للحراسات الخاصة وتأمين الشخصيات الهامة والفعاليات، مع فريق محترف يوفر أعلى مستويات الأمان والحماية على مدار الساعة.",
+                    "rank_math_focus_keyword": "جارد مصر"
+                }
+            },
+            {
+                "post_id": 777,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d8%b4%d8%b1%d9%83%d8%a9-%d8%ad%d8%b1%d8%a7%d8%b3%d8%a7%d8%aa-%d8%ae%d8%a7%d8%b5%d8%a9-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-%d8%ad%d9%85%d8%a7%d9%8a%d8%a9-%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d9%81%d9%8a%d8%a9",
+                "post_title": "شركة حراسات خاصة في مصر: حماية احترافية للأفراد والمنشآت",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%b4%d8%b1%d9%83%d8%a9-%d8%ad%d8%b1%d8%a7%d8%b3%d8%a7%d8%aa-%d8%ae%d8%a7%d8%b5%d8%a9-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-%d8%ad%d9%85%d8%a7%d9%8a%d8%a9-%d8%a7%d8%ad%d8%aa%d8%b1%d8%a7%d9%81%d9%8a%d8%a9/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "شركة حراسات خاصة في مصر توفر خدمات الحماية الشخصية وتأمين المنشآت والفعاليات بأعلى معايير الأمان والاحترافية لضمان سلامة الأفراد والممتلكات.",
+                    "rank_math_focus_keyword": "شركة حراسات خاصة في مصر"
+                }
+            },
+            {
+                "post_id": 782,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d8%ad%d8%b1%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d8%b4%d8%ae%d8%b5%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d9%87%d8%a7%d9%85%d8%a9-vip-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1",
+                "post_title": "حراسة الشخصيات الهامة VIP في مصر — بودي جارد مصر",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%ad%d8%b1%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d8%b4%d8%ae%d8%b5%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d9%87%d8%a7%d9%85%d8%a9-vip-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "تعرف على خدمات حراسة الشخصيات الهامة VIP في مصر مع فريق بودي جارد محترف يوفر أعلى مستويات الحماية والأمان لكبار الشخصيات ورجال الأعمال والفعاليات الخاصة.",
+                    "rank_math_focus_keyword": "حراسة الشخصيات الهامة VIP"
+                }
+            },
+            {
+                "post_id": 787,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d8%a3%d9%81%d8%b6%d9%84-%d8%b4%d8%b1%d9%83%d8%a9-%d8%ad%d8%b1%d8%a7%d8%b3%d8%a9-%d8%b4%d8%ae%d8%b5%d9%8a%d8%a9-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1",
+                "post_title": "أفضل شركة حراسة شخصية في مصر - شركة بودي جارد مصر",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%a3%d9%81%d8%b6%d9%84-%d8%b4%d8%b1%d9%83%d8%a9-%d8%ad%d8%b1%d8%a7%d8%b3%d8%a9-%d8%b4%d8%ae%d8%b5%d9%8a%d8%a9-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "شركة بودي جارد مصر تقدم خدمات الحراسة الشخصية وتأمين الشخصيات الهامة ورجال الأعمال بأعلى مستويات الاحترافية. اطلب خدمة بودي جارد في مصر أو استفسر عن الأسعار عبر 201112970671.",
+                    "rank_math_focus_keyword": "شركة حراسة شخصية في مصر"
+                }
+            },
+            {
+                "post_id": 829,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d8%ad%d8%b1%d8%a7%d8%b3%d8%a9-%d8%b4%d8%ae%d8%b5%d9%8a%d8%a9-%d9%84%d9%84%d8%b3%d9%8a%d8%a7%d8%ad-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1",
+                "post_title": "حراسة شخصية للسياح في مصر | مع شركة بودي جارد مصر",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%ad%d8%b1%d8%a7%d8%b3%d8%a9-%d8%b4%d8%ae%d8%b5%d9%8a%d8%a9-%d9%84%d9%84%d8%b3%d9%8a%d8%a7%d8%ad-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "حراسة شخصية للسياح في مصر | شركة بودي جارد مصر",
+                    "rank_math_description": "احصل على خدمات حراسة شخصية احترافية للسياح في مصر مع شركة بودي جارد مصر. فريق أمني مدرب، حماية خاصة، مرافقة آمنة، وسرية تامة لضمان رحلة مريحة وآمنة في جميع المحافظات.",
+                    "rank_math_focus_keyword": "حراسة شخصية للسياح في مصر"
+                }
+            },
+            {
+                "post_id": 859,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%84%d8%b1%d8%ac%d8%a7%d9%84-%d8%a7%d9%84%d8%a3%d8%b9%d9%85%d8%a7%d9%84-%d9%81%d9%8a-%d8%a7%d9%84%d8%aa%d8%ac%d9%85%d8%b9-%d8%a7%d9%84%d8%ae%d8%a7",
+                "post_title": "بودي جارد لرجال الأعمال في التجمع الخامس 201112970671",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%84%d8%b1%d8%ac%d8%a7%d9%84-%d8%a7%d9%84%d8%a3%d8%b9%d9%85%d8%a7%d9%84-%d9%81%d9%8a-%d8%a7%d9%84%d8%aa%d8%ac%d9%85%d8%b9-%d8%a7%d9%84%d8%ae%d8%a7/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "بودي جارد لرجال الأعمال في التجمع الخامس | حماية VIP",
+                    "rank_math_description": "احجز بودي جارد لرجال الأعمال في التجمع الخامس مع فريق أمني محترف يوفر الحماية الشخصية، وتأمين الاجتماعات والتنقلات بسرية تامة. اتصل الآن: 201112970671.",
+                    "rank_math_focus_keyword": "بودي جارد لرجال الأعمال في التجمع الخامس"
+                }
+            },
+            {
+                "post_id": 866,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d8%b1%d9%82%d9%85-%d8%ad%d8%a7%d8%b1%d8%b3-%d8%b4%d8%ae%d8%b5%d9%8a-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-%d9%85%d8%aa%d8%a7%d8%ad-24-%d8%b3%d8%a7%d8%b9%d8%a9-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1",
+                "post_title": "رقم حارس شخصي في مصر متاح 24 ساعة - بودي جارد مصر",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%b1%d9%82%d9%85-%d8%ad%d8%a7%d8%b1%d8%b3-%d8%b4%d8%ae%d8%b5%d9%8a-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-%d9%85%d8%aa%d8%a7%d8%ad-24-%d8%b3%d8%a7%d8%b9%d8%a9-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "رقم حارس شخصي في مصر 24 ساعة | بودي جارد مصر",
+                    "rank_math_description": "هل تبحث عن رقم حارس شخصي في مصر؟ وفرنا لك خدمة بودي جارد محترفة لحماية الشخصيات ورجال الأعمال والفعاليات على مدار 24 ساعة. اتصل الآن: 201112970671.",
+                    "rank_math_focus_keyword": "رقم حارس شخصي في مصر"
+                }
+            },
+            {
+                "post_id": 924,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d8%a7%d8%b7%d9%84%d8%a8-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d8%a7%d9%84%d8%a2%d9%86-%d9%81%d9%8a-%d8%a7%d9%84%d9%82%d8%a7%d9%87%d8%b1%d8%a9-%d9%88%d8%a7%d9%84%d8%ac%d9%8a%d8%b2%d8%a9",
+                "post_title": "اطلب بودي جارد الآن في القاهرة والجيزة | بودي جارد مصر",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%a7%d8%b7%d9%84%d8%a8-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d8%a7%d9%84%d8%a2%d9%86-%d9%81%d9%8a-%d8%a7%d9%84%d9%82%d8%a7%d9%87%d8%b1%d8%a9-%d9%88%d8%a7%d9%84%d8%ac%d9%8a%d8%b2%d8%a9/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "اطلب بودي جارد الآن في القاهرة والجيزة | حماية 24 ساعة",
+                    "rank_math_description": "اطلب بودي جارد الآن في القاهرة والجيزة مع فريق حراسة شخصية محترف. نوفر حماية للأفراد ورجال الأعمال والمشاهير باستجابة سريعة على مدار 24 ساعة وسرية تامة.",
+                    "rank_math_focus_keyword": "اطلب بودي جارد الآن"
+                }
+            },
+            {
+                "post_id": 938,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d9%83%d9%8a%d9%81-%d8%a7%d9%84%d8%aa%d9%88%d8%a7%d8%b5%d9%84-%d8%a7%d9%84%d9%8a-%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%ad%d8%b1%d8%a7%d8%b3%d8%a9-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-%d8%a8",
+                "post_title": "كيف التواصل الي شركات الحراسة في مصر - بودي جارد مصر",
+                "post_parent": 0,
+                "relative_permalink": "/%d9%83%d9%8a%d9%81-%d8%a7%d9%84%d8%aa%d9%88%d8%a7%d8%b5%d9%84-%d8%a7%d9%84%d9%8a-%d8%b4%d8%b1%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%ad%d8%b1%d8%a7%d8%b3%d8%a9-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-%d8%a8/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "كيف التواصل مع شركات الحراسة في مصر؟ | بودي جارد مصر",
+                    "rank_math_description": "تعرف على أفضل طرق التواصل مع شركات الحراسة في مصر، وكيف تختار شركة بودي جارد موثوقة لحماية الأشخاص والمنشآت، مع إمكانية طلب الخدمة بسرعة وعلى مدار 24 ساعة.",
+                    "rank_math_focus_keyword": "شركات الحراسة في مصر"
+                }
+            },
+            {
+                "post_id": 943,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d8%a3%d8%ae%d8%b7%d8%b1-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1",
+                "post_title": "أخطر بودي جارد في مصر: بين الأسطورة والواقع",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%a3%d8%ae%d8%b7%d8%b1-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "أخطر بودي جارد في مصر: بين الأسطورة والواقع - بودي جارد مصر",
+                    "rank_math_description": "أخطر بودي جارد في مصر: بين الأسطورة والواقع. اكتشف صفات الحارس الشخصي المحترف، وكيف تختار شركة حماية موثوقة توفر أعلى مستويات الأمن والاحترافية.",
+                    "rank_math_focus_keyword": "أخطر بودي جارد في مصر"
+                }
+            },
+            {
+                "post_id": 948,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d8%a7%d8%ad%d8%ac%d8%b2-%d8%ae%d8%af%d9%85%d8%a9-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-vip",
+                "post_title": "احجز خدمة بودي جارد VIP مع استجابة سريعة 24 ساعة | بودي جارد مصر",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%a7%d8%ad%d8%ac%d8%b2-%d8%ae%d8%af%d9%85%d8%a9-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-vip/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "احجز خدمة بودي جارد VIP 24 ساعة | بودي جارد مصر",
+                    "rank_math_description": "احجز خدمة بودي جارد VIP في مصر مع استجابة سريعة على مدار 24 ساعة. حراسة شخصية احترافية لتأمين رجال الأعمال والمشاهير والفعاليات بسرية تامة وكفاءة عالية.",
+                    "rank_math_focus_keyword": "احجز خدمة بودي جارد VIP"
+                }
+            },
+            {
+                "post_id": 951,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d8%a7%d8%ad%d8%b5%d9%84-%d8%b9%d9%84%d9%89-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d8%b4%d8%ae%d8%b5%d9%8a",
+                "post_title": "احصل على بودي جارد شخصي في أي وقت داخل مصر",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%a7%d8%ad%d8%b5%d9%84-%d8%b9%d9%84%d9%89-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d8%b4%d8%ae%d8%b5%d9%8a/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "احصل على بودي جارد شخصي في أي وقت داخل مصر - بودي جارد مصر",
+                    "rank_math_description": "احصل على بودي جارد شخصي في أي وقت داخل مصر مع بودي جارد مصر. حماية فورية 24 ساعة، حراس مدربون، سرعة استجابة، وأمان كامل أينما كنت. اتصل الآن 201112970671.\n\n",
+                    "rank_math_focus_keyword": "بودي جارد شخصي"
+                }
+            },
+            {
+                "post_id": 954,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d9%83%d9%85-%d9%8a%d9%83%d9%84%d9%81-%d8%a7%d9%84%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1%d8%9f",
+                "post_title": "كم يكلف البودي جارد في مصر؟ — الباقات والعروض من بودي جارد مصر",
+                "post_parent": 0,
+                "relative_permalink": "/%d9%83%d9%85-%d9%8a%d9%83%d9%84%d9%81-%d8%a7%d9%84%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1%d8%9f/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "كم يكلف البودي جارد في مصر؟ الباقات والعروض | بودي جارد مصر",
+                    "rank_math_description": "تعرف على تكلفة البودي جارد في مصر وأهم العوامل التي تحدد السعر، مع باقات حماية مرنة للأفراد والشركات وفرق أمن مدربة من بودي جارد مصر.",
+                    "rank_math_focus_keyword": "كم يكلف البودي جارد في مصر"
+                }
+            },
+            {
+                "post_id": 964,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%84%d9%84%d8%a5%d9%8a%d8%ac%d8%a7%d8%b1-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1",
+                "post_title": "بودي جارد للايجار في مصر - بودي جارد مصر",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%84%d9%84%d8%a5%d9%8a%d8%ac%d8%a7%d8%b1-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "بودي جارد للإيجار في مصر | حماية الشخصيات ورجال الأعمال 24/7",
+                    "rank_math_description": "استأجر بودي جارد في مصر بخدمات حماية شخصية احترافية للأفراد ورجال الأعمال وكبار الشخصيات. فريق مدرب، استجابة سريعة، وسرية تامة مع تغطية جميع المحافظات",
+                    "rank_math_focus_keyword": "بودي جارد للإيجار في مصر"
+                }
+            },
+            {
+                "post_id": 977,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d8%a3%d8%b4%d9%87%d8%b1-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1",
+                "post_title": "أشهر بودي جارد في مصر  كيف تختار خدمة حماية موثوقة؟",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%a3%d8%b4%d9%87%d8%b1-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "أشهر بودي جارد في مصر 2026 | كيف تختار خدمة حماية موثوقة؟",
+                    "rank_math_description": "تعرف على معايير اختيار أشهر بودي جارد في مصر، وكيف تميز بين الشهرة الحقيقية والدعاية من خلال الخبرة، الاحترافية، التدريب وجودة خدمات الحماية الشخصية.",
+                    "rank_math_focus_keyword": "أشهر بودي جارد في مصر"
+                }
+            },
+            {
+                "post_id": 989,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d8%a3%d9%81%d8%b6%d9%84-%d8%a8%d9%88%d8%af%d9%8a-%d9%82%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1",
+                "post_title": "أفضل بودي قارد في مصر للشخصيات المهمة: كيف تختار فريق VIP مناسبًا؟",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%a3%d9%81%d8%b6%d9%84-%d8%a8%d9%88%d8%af%d9%8a-%d9%82%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "أفضل بودي قارد في مصر VIP: كيف تختار فريق حراسة مناسب؟",
+                    "rank_math_description": "تعرف على معايير اختيار أفضل بودي قارد في مصر للشخصيات الهامة (VIP). اكتشف كيف تؤمن حمايتك الشخصية باحترافية عالية مع فريق حراسة مؤهل ومدرب بدقة.",
+                    "rank_math_focus_keyword": "بودي قارد في مصر"
+                }
+            },
+            {
+                "post_id": 992,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d9%83%d9%8a%d9%81-%d8%aa%d8%ae%d8%aa%d8%a7%d8%b1-%d8%b4%d8%b1%d9%83%d8%a9-%d8%ad%d8%b1%d8%a7%d8%b3%d8%a9-%d8%ae%d8%a7%d8%b5%d8%a9-%d9%85%d8%b1%d8%ae%d8%b5%d8%a9-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1%d8%9f",
+                "post_title": "كيف تختار شركة حراسة خاصة مرخصة في مصر؟ 9 نقاط لا تتجاهلها",
+                "post_parent": 0,
+                "relative_permalink": "/%d9%83%d9%8a%d9%81-%d8%aa%d8%ae%d8%aa%d8%a7%d8%b1-%d8%b4%d8%b1%d9%83%d8%a9-%d8%ad%d8%b1%d8%a7%d8%b3%d8%a9-%d8%ae%d8%a7%d8%b5%d8%a9-%d9%85%d8%b1%d8%ae%d8%b5%d8%a9-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1%d8%9f/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 24,
+                        "name": "اختيار شركة الحراسة",
+                        "slug": "%d8%a7%d8%ae%d8%aa%d9%8a%d8%a7%d8%b1-%d8%b4%d8%b1%d9%83%d8%a9-%d8%a7%d9%84%d8%ad%d8%b1%d8%a7%d8%b3%d8%a9"
+                    },
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "قبل التعاقد.. 9 أسرار لاختيار شركة حراسة خاصة مرخصة في مصر",
+                    "rank_math_description": "تعرف على أهم 9 معايير لاختيار شركة حراسة خاصة مرخصة في مصر، بداية من التراخيص والخبرة وحتى كفاءة فريق الحماية لضمان أعلى مستوى من الأمان.",
+                    "rank_math_focus_keyword": "كيف تختار شركة حراسة خاصة في مصر"
+                }
+            },
+            {
+                "post_id": 995,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d8%a3%d9%82%d9%88%d9%89-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1",
+                "post_title": "أقوى بودي قارد في مصر: 10 معايير تحدد قوة الحماية الشخصية",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%a3%d9%82%d9%88%d9%89-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "أقوى بودي قارد في مصر | 10 معايير للحماية الشخصية",
+                    "rank_math_description": "تعرف على أهم 10 معايير تحدد قوة أفضل بودي قارد في مصر، من الخبرة واللياقة والتدريب إلى سرعة الاستجابة والتخطيط والقدرة على التعامل مع الأزمات.",
+                    "rank_math_focus_keyword": "قوى بودي قارد في مصر"
+                }
+            },
+            {
+                "post_id": 1027,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d8%af%d9%84%d9%8a%d9%84-%d8%a7%d8%b3%d8%aa%d8%a6%d8%ac%d8%a7%d8%b1-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1",
+                "post_title": "دليلك لاستئجار بودي قارد في مصر لحماية موثوقة واحترافية",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%af%d9%84%d9%8a%d9%84-%d8%a7%d8%b3%d8%aa%d8%a6%d8%ac%d8%a7%d8%b1-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 22,
+                        "name": "التأجير والحجز",
+                        "slug": "%d8%a7%d9%84%d8%aa%d8%a3%d8%ac%d9%8a%d8%b1-%d9%88%d8%a7%d9%84%d8%ad%d8%ac%d8%b2"
+                    },
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "استئجار بودي قارد في مصر – حماية احترافية للأفراد والشخصيات العامة",
+                    "rank_math_description": "استئجار بودي قارد في مصر لحماية الأفراد والشخصيات العامة مع خدمات حراسة احترافية، أفراد أمن مدربين، وسرية وأمان على أعلى مستوى.",
+                    "rank_math_focus_keyword": "استئجار بودي جارد في مصر"
+                }
+            },
+            {
+                "post_id": 1036,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d8%b4%d8%b1%d9%83%d8%a9-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%84%d9%84%d8%ad%d8%b1%d8%a7%d8%b3%d8%a7%d8%aa-%d8%a7%d9%84%d8%ae%d8%a7%d8%b5%d8%a9",
+                "post_title": "شركة بودي جارد للحراسات الخاصة – حماية احترافية للأفراد والمنشآت في مصر",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%b4%d8%b1%d9%83%d8%a9-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%84%d9%84%d8%ad%d8%b1%d8%a7%d8%b3%d8%a7%d8%aa-%d8%a7%d9%84%d8%ae%d8%a7%d8%b5%d8%a9/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "شركة بودي جارد للحراسات الخاصة | حماية وأمان باحترافية",
+                    "rank_math_description": "تعرف على خدمات شركة بودي جارد للحراسات الخاصة، وحلول الحماية الشخصية وتأمين الأفراد والمنشآت من خلال فريق أمني محترف وفق أعلى معايير الأمان.",
+                    "rank_math_focus_keyword": "شركة بودي جارد للحراسات الخاصة"
+                }
+            },
+            {
+                "post_id": 1041,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d8%ad%d8%b1%d8%a7%d8%b3%d8%a9-%d8%ae%d8%a7%d8%b5%d8%a9-vip-%d9%84%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%8a%d9%86-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1",
+                "post_title": "حراسة خاصة VIP للسعوديين في مصر: دليل السياح ورجال الأعمال",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%ad%d8%b1%d8%a7%d8%b3%d8%a9-%d8%ae%d8%a7%d8%b5%d8%a9-vip-%d9%84%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%8a%d9%86-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "حراسة VIP للسعوديين في مصر | حماية خاصة للسياح ورجال الأعمال",
+                    "rank_math_description": "تعرف على أهمية خدمات الحراسة الخاصة VIP للسياح ورجال الأعمال السعوديين في مصر، وكيفية اختيار شركة حراسة موثوقة توفر الحماية والخصوصية أثناء التنقل والإقامة.",
+                    "rank_math_focus_keyword": "حراسة VIP للسعوديين في مصر"
+                }
+            },
+            {
+                "post_id": 1044,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d8%ad%d8%b1%d8%a7%d8%b3%d8%a9-%d8%ae%d8%a7%d8%b5%d8%a9-vip",
+                "post_title": "لماذا تحتاج الشركات الكبرى ورجال الأعمال إلى حراسة خاصة (VIP) أثناء التنقلات؟",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%ad%d8%b1%d8%a7%d8%b3%d8%a9-%d8%ae%d8%a7%d8%b5%d8%a9-vip/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "لماذا تحتاج الشركات ورجال الأعمال إلى حراسة خاصة VIP أثناء التنقل؟",
+                    "rank_math_description": "تعرف على أهمية الحراسة الخاصة VIP للشركات الكبرى ورجال الأعمال أثناء التنقلات والاجتماعات والفعاليات، ولماذا تعد بودي جارد مصر خيارًا مناسبًا للحماية والخصوصية 24 ساعة.",
+                    "rank_math_focus_keyword": "حراسة خاصة VIP"
+                }
+            },
+            {
+                "post_id": 1047,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d8%ad%d8%a7%d8%b1%d8%b3-%d8%b4%d8%ae%d8%b5%d9%8a-%d9%84%d8%b3%d9%8a%d8%af%d8%a9-%d8%a3%d8%b9%d9%85%d8%a7%d9%84-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1",
+                "post_title": "حارس شخصي لسيدة أعمال في مصر | حماية VIP وخصوصية",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%ad%d8%a7%d8%b1%d8%b3-%d8%b4%d8%ae%d8%b5%d9%8a-%d9%84%d8%b3%d9%8a%d8%af%d8%a9-%d8%a3%d8%b9%d9%85%d8%a7%d9%84-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "حارس شخصي لسيدة أعمال في مصر | حماية VIP وخصوصية",
+                    "rank_math_description": "حارس شخصي لسيدة أعمال في مصر لحماية احترافية وخصوصية وأمان VIP أثناء التنقل والاجتماعات والفعاليات مع شركة بودي جارد مصر.",
+                    "rank_math_focus_keyword": "حارس شخصي لسيدة أعمال في مصر"
+                }
+            },
+            {
+                "post_id": 1052,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d9%85%d8%b7%d9%84%d9%88%d8%a8-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1",
+                "post_title": "مطلوب بودي جارد في مصر | خدمات الحراسة الشخصية من شركة بودي جارد مصر",
+                "post_parent": 0,
+                "relative_permalink": "/%d9%85%d8%b7%d9%84%d9%88%d8%a8-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 1,
+                        "name": "بودي جارد في مصر",
+                        "slug": "bodyguards-in-egypt"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "مطلوب بودي جارد في مصر | خدمات الحراسة الشخصية",
+                    "rank_math_description": "مطلوب بودي جارد في مصر؟ احصل على خدمات الحراسة الشخصية وتأمين الأفراد والشخصيات المهمة مع شركة بودي جارد مصر، على مدار الساعة.",
+                    "rank_math_focus_keyword": "مطلوب بودي جارد في مصر"
+                }
+            },
+            {
+                "post_id": 1084,
+                "post_type": "page",
+                "post_status": "publish",
+                "post_name": "english-blog",
+                "post_title": "English Blog",
+                "post_parent": 0,
+                "relative_permalink": "/english-blog/",
+                "elementor_managed": true,
+                "categories": [],
+                "rankmath": {
+                    "rank_math_title": "Bodyguard Egypt",
+                    "rank_math_description": "Explore the Bodyguard Egypt blog for expert insights on bodyguard services, personal protection, VIP protection, travel safety, and professional protection in Egypt.",
+                    "rank_math_focus_keyword": "Bodyguard Egypt"
+                }
+            },
+            {
+                "post_id": 1206,
+                "post_type": "page",
+                "post_status": "publish",
+                "post_name": "%d8%a7%d9%84%d9%85%d8%af%d9%88%d9%86%d8%a9",
+                "post_title": "المدونة",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%a7%d9%84%d9%85%d8%af%d9%88%d9%86%d8%a9/",
+                "elementor_managed": false,
+                "categories": [],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "",
+                    "rank_math_focus_keyword": ""
+                }
+            },
+            {
+                "post_id": 1209,
+                "post_type": "page",
+                "post_status": "publish",
+                "post_name": "%d8%a7%d8%ad%d8%ac%d8%b2-%d8%ad%d8%a7%d8%b1%d8%b3-%d8%b4%d8%ae%d8%b5%d9%8a-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1",
+                "post_title": "حارس شخصي في مصر",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%a7%d8%ad%d8%ac%d8%b2-%d8%ad%d8%a7%d8%b1%d8%b3-%d8%b4%d8%ae%d8%b5%d9%8a-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1/",
+                "elementor_managed": false,
+                "categories": [],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "خدمة حارس شخصي في مصر للحماية والمرافقة أثناء التحركات والاجتماعات والزيارات مع تنظيم واضح وسرية كاملة.",
+                    "rank_math_focus_keyword": "حارس شخصي في مصر"
+                }
+            },
+            {
+                "post_id": 1210,
+                "post_type": "page",
+                "post_status": "publish",
+                "post_name": "%d8%a7%d8%ad%d8%ac%d8%b2-%d8%ad%d8%a7%d8%b1%d8%b3-%d8%b4%d8%ae%d8%b5%d9%8a-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-2",
+                "post_title": "حارس شخصي في مصر",
+                "post_parent": 115,
+                "relative_permalink": "/%d8%ae%d8%af%d9%85%d8%a7%d8%aa%d9%86%d8%a7/%d8%a7%d8%ad%d8%ac%d8%b2-%d8%ad%d8%a7%d8%b1%d8%b3-%d8%b4%d8%ae%d8%b5%d9%8a-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-2/",
+                "elementor_managed": false,
+                "categories": [],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "خدمة حارس شخصي في مصر للحماية والمرافقة أثناء التحركات والاجتماعات والزيارات مع تنظيم واضح وسرية كاملة.",
+                    "rank_math_focus_keyword": "حارس شخصي في مصر"
+                }
+            },
+            {
+                "post_id": 1211,
+                "post_type": "page",
+                "post_status": "publish",
+                "post_name": "%d8%aa%d8%a3%d8%ac%d9%8a%d8%b1-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-%d8%a8%d8%a7%d9%84%d8%b3%d8%a7%d8%b9%d8%a9",
+                "post_title": "تأجير بودي جارد في مصر",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%aa%d8%a3%d8%ac%d9%8a%d8%b1-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1-%d8%a8%d8%a7%d9%84%d8%b3%d8%a7%d8%b9%d8%a9/",
+                "elementor_managed": false,
+                "categories": [],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "تأجير بودي جارد في مصر بالساعة أو حسب مدة المهمة مع تحديد عدد أفراد الحماية ونطاق التحرك قبل التنفيذ.",
+                    "rank_math_focus_keyword": "تأجير بودي جارد في مصر"
+                }
+            },
+            {
+                "post_id": 1213,
+                "post_type": "page",
+                "post_status": "publish",
+                "post_name": "%d8%ad%d8%b1%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d8%b4%d8%ae%d8%b5%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d9%87%d8%a7%d9%85%d8%a9-vip-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1",
+                "post_title": "حراسة الشخصيات الهامة VIP في مصر",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%ad%d8%b1%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d8%b4%d8%ae%d8%b5%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d9%87%d8%a7%d9%85%d8%a9-vip-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1/",
+                "elementor_managed": false,
+                "categories": [],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "حماية VIP والشخصيات الهامة في مصر بخطة مرافقة تناسب التحركات والظهور العام ومستوى الخصوصية المطلوب.",
+                    "rank_math_focus_keyword": "حراسة الشخصيات الهامة VIP في مصر"
+                }
+            },
+            {
+                "post_id": 1214,
+                "post_type": "page",
+                "post_status": "publish",
+                "post_name": "%d8%ad%d8%b1%d8%a7%d8%b3%d8%a9-%d8%b1%d8%ac%d8%a7%d9%84-%d8%a7%d9%84%d8%a3%d8%b9%d9%85%d8%a7%d9%84-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1",
+                "post_title": "حراسة رجال الأعمال في مصر",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%ad%d8%b1%d8%a7%d8%b3%d8%a9-%d8%b1%d8%ac%d8%a7%d9%84-%d8%a7%d9%84%d8%a3%d8%b9%d9%85%d8%a7%d9%84-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1/",
+                "elementor_managed": false,
+                "categories": [],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "حماية ومرافقة رجال الأعمال في مصر أثناء الاجتماعات ورحلات العمل والتنقل بين الفنادق والمقار والمطارات.",
+                    "rank_math_focus_keyword": "حراسة رجال الأعمال في مصر"
+                }
+            },
+            {
+                "post_id": 1215,
+                "post_type": "page",
+                "post_status": "publish",
+                "post_name": "%d8%ad%d8%a7%d8%b1%d8%b3-%d8%b4%d8%ae%d8%b5%d9%8a-%d9%84%d8%b3%d9%8a%d8%af%d8%a9-%d8%a3%d8%b9%d9%85%d8%a7%d9%84-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1",
+                "post_title": "حارس شخصي لسيدة أعمال في مصر",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%ad%d8%a7%d8%b1%d8%b3-%d8%b4%d8%ae%d8%b5%d9%8a-%d9%84%d8%b3%d9%8a%d8%af%d8%a9-%d8%a3%d8%b9%d9%85%d8%a7%d9%84-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1/",
+                "elementor_managed": false,
+                "categories": [],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "خدمة حارس شخصي لسيدات الأعمال في مصر للمرافقة أثناء الاجتماعات والتنقلات والزيارات مع تركيز على الخصوصية والمرونة.",
+                    "rank_math_focus_keyword": "حارس شخصي لسيدة أعمال في مصر"
+                }
+            },
+            {
+                "post_id": 1217,
+                "post_type": "page",
+                "post_status": "publish",
+                "post_name": "%d8%ad%d8%b1%d8%a7%d8%b3%d8%a9-%d8%b4%d8%ae%d8%b5%d9%8a%d8%a9-%d9%84%d9%84%d8%b3%d9%8a%d8%a7%d8%ad-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1",
+                "post_title": "حراسة شخصية للسياح في مصر",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%ad%d8%b1%d8%a7%d8%b3%d8%a9-%d8%b4%d8%ae%d8%b5%d9%8a%d8%a9-%d9%84%d9%84%d8%b3%d9%8a%d8%a7%d8%ad-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1/",
+                "elementor_managed": false,
+                "categories": [],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "حراسة شخصية ومرافقة أمنية للسياح والزوار في مصر أثناء الوصول والتنقل والزيارات والرحلات الخاصة.",
+                    "rank_math_focus_keyword": "حراسة شخصية للسياح في مصر"
+                }
+            },
+            {
+                "post_id": 1221,
+                "post_type": "page",
+                "post_status": "publish",
+                "post_name": "%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a7%d9%84%d9%81%d9%86%d8%a7%d9%86%d9%8a%d9%86-%d9%88%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d9%87%d9%8a%d8%b1-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1",
+                "post_title": "تأمين الفنانين والمشاهير في مصر",
+                "post_parent": 115,
+                "relative_permalink": "/%d8%ae%d8%af%d9%85%d8%a7%d8%aa%d9%86%d8%a7/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a7%d9%84%d9%81%d9%86%d8%a7%d9%86%d9%8a%d9%86-%d9%88%d8%a7%d9%84%d9%85%d8%b4%d8%a7%d9%87%d9%8a%d8%b1-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1/",
+                "elementor_managed": false,
+                "categories": [],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "حماية الفنانين والمشاهير في مصر أثناء الظهور العام والتنقل والفعاليات مع تنظيم يركز على الخصوصية وإدارة الحركة.",
+                    "rank_math_focus_keyword": "تأمين الفنانين والمشاهير في مصر"
+                }
+            },
+            {
+                "post_id": 1223,
+                "post_type": "page",
+                "post_status": "publish",
+                "post_name": "%d8%a7%d8%b3%d8%aa%d9%82%d8%a8%d8%a7%d9%84-%d9%88%d9%85%d8%b1%d8%a7%d9%81%d9%82%d8%a9-%d9%85%d9%86-%d8%a7%d9%84%d9%85%d8%b7%d8%a7%d8%b1",
+                "post_title": "استقبال ومرافقة من المطار في مصر",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%a7%d8%b3%d8%aa%d9%82%d8%a8%d8%a7%d9%84-%d9%88%d9%85%d8%b1%d8%a7%d9%81%d9%82%d8%a9-%d9%85%d9%86-%d8%a7%d9%84%d9%85%d8%b7%d8%a7%d8%b1/",
+                "elementor_managed": false,
+                "categories": [],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "استقبال ومرافقة أمنية من المطار إلى الفندق أو الوجهة المطلوبة مع تنسيق وقت الوصول ونقطة الالتقاء والتحرك.",
+                    "rank_math_focus_keyword": "استقبال ومرافقة من المطار"
+                }
+            },
+            {
+                "post_id": 1225,
+                "post_type": "page",
+                "post_status": "publish",
+                "post_name": "%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%81%d8%b9%d8%a7%d9%84%d9%8a%d8%a7%d8%aa-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1",
+                "post_title": "تأمين المناسبات والفعاليات في مصر",
+                "post_parent": 0,
+                "relative_permalink": "/%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%81%d8%b9%d8%a7%d9%84%d9%8a%d8%a7%d8%aa-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1/",
+                "elementor_managed": false,
+                "categories": [],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "تأمين المناسبات والفعاليات في مصر بخطة تعتمد على موقع الحدث وعدد الحضور وطبيعة حركة الشخصيات المهمة.",
+                    "rank_math_focus_keyword": "تأمين المناسبات والفعاليات في مصر"
+                }
+            },
+            {
+                "post_id": 1227,
+                "post_type": "post",
+                "post_status": "draft",
+                "post_name": "%d9%83%d9%8a%d9%81-%d8%aa%d8%b3%d8%aa%d8%a3%d8%ac%d8%b1-%d8%ad%d8%a7%d8%b1%d8%b3-%d8%b4%d8%ae%d8%b5%d9%8a-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1",
+                "post_title": "كيف تستأجر حارسًا شخصيًا في مصر؟ خطوات عملية قبل الحجز",
+                "post_parent": 0,
+                "relative_permalink": "/?p=1227",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 22,
+                        "name": "التأجير والحجز",
+                        "slug": "%d8%a7%d9%84%d8%aa%d8%a3%d8%ac%d9%8a%d8%b1-%d9%88%d8%a7%d9%84%d8%ad%d8%ac%d8%b2"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "",
+                    "rank_math_focus_keyword": "كيف تستأجر حارس شخصي"
+                }
+            },
+            {
+                "post_id": 1228,
+                "post_type": "post",
+                "post_status": "publish",
+                "post_name": "%d9%85%d8%b9%d8%a7%d9%8a%d9%8a%d8%b1-%d8%a7%d8%ae%d8%aa%d9%8a%d8%a7%d8%b1-%d8%ad%d8%a7%d8%b1%d8%b3-%d8%b4%d8%ae%d8%b5%d9%8a-%d9%85%d8%ad%d8%aa%d8%b1%d9%81",
+                "post_title": "ما الذي يجعل الحارس الشخصي محترفًا؟ معايير الاختيار الأساسية",
+                "post_parent": 0,
+                "relative_permalink": "/%d9%85%d8%b9%d8%a7%d9%8a%d9%8a%d8%b1-%d8%a7%d8%ae%d8%aa%d9%8a%d8%a7%d8%b1-%d8%ad%d8%a7%d8%b1%d8%b3-%d8%b4%d8%ae%d8%b5%d9%8a-%d9%85%d8%ad%d8%aa%d8%b1%d9%81/",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 25,
+                        "name": "اختيار الحارس الشخصي",
+                        "slug": "%d8%a7%d8%ae%d8%aa%d9%8a%d8%a7%d8%b1-%d8%a7%d9%84%d8%ad%d8%a7%d8%b1%d8%b3-%d8%a7%d9%84%d8%b4%d8%ae%d8%b5%d9%8a"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "",
+                    "rank_math_focus_keyword": "معايير اختيار حارس شخصي محترف"
+                }
+            },
+            {
+                "post_id": 1230,
+                "post_type": "post",
+                "post_status": "draft",
+                "post_name": "%d9%85%d8%a7-%d9%85%d8%b9%d9%86%d9%89-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%88%d9%85%d9%87%d8%a7%d9%85-%d8%a7%d9%84%d8%ad%d8%a7%d8%b1%d8%b3-%d8%a7%d9%84%d8%b4%d8%ae%d8%b5%d9%8a",
+                "post_title": "ما معنى بودي جارد؟ وما مهام الحارس الشخصي؟",
+                "post_parent": 0,
+                "relative_permalink": "/?p=1230",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 23,
+                        "name": "أدلة الحماية الشخصية",
+                        "slug": "%d8%a3%d8%af%d9%84%d8%a9-%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%b4%d8%ae%d8%b5%d9%8a%d8%a9"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "",
+                    "rank_math_focus_keyword": "ما معنى بودي جارد"
+                }
+            },
+            {
+                "post_id": 1231,
+                "post_type": "post",
+                "post_status": "draft",
+                "post_name": "%d8%a7%d9%84%d9%81%d8%b1%d9%82-%d8%a8%d9%8a%d9%86-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%88%d8%ad%d8%a7%d8%b1%d8%b3-%d8%b4%d8%ae%d8%b5%d9%8a-%d9%88%d8%b4%d8%b1%d9%83%d8%a9-%d8%ad%d8%b1",
+                "post_title": "الفرق بين بودي جارد وحارس شخصي وشركة حراسة خاصة",
+                "post_parent": 0,
+                "relative_permalink": "/?p=1231",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 23,
+                        "name": "أدلة الحماية الشخصية",
+                        "slug": "%d8%a3%d8%af%d9%84%d8%a9-%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%b4%d8%ae%d8%b5%d9%8a%d8%a9"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "",
+                    "rank_math_focus_keyword": "الفرق بين بودي جارد وحارس شخصي"
+                }
+            },
+            {
+                "post_id": 1232,
+                "post_type": "post",
+                "post_status": "draft",
+                "post_name": "%d8%af%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%b4%d8%ae%d8%b5%d9%8a%d8%a9-%d9%84%d8%b1%d8%ac%d8%a7%d9%84-%d8%a7%d9%84%d8%a3%d8%b9%d9%85%d8%a7%d9%84",
+                "post_title": "دليل الحماية الشخصية لرجال الأعمال أثناء الاجتماعات والتحركات",
+                "post_parent": 0,
+                "relative_permalink": "/?p=1232",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 26,
+                        "name": "حماية رجال الأعمال",
+                        "slug": "%d8%ad%d9%85%d8%a7%d9%8a%d8%a9-%d8%b1%d8%ac%d8%a7%d9%84-%d8%a7%d9%84%d8%a3%d8%b9%d9%85%d8%a7%d9%84"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "",
+                    "rank_math_focus_keyword": "حماية رجال الأعمال"
+                }
+            },
+            {
+                "post_id": 1233,
+                "post_type": "post",
+                "post_status": "draft",
+                "post_name": "%d9%87%d9%84-%d9%8a%d8%ad%d8%aa%d8%a7%d8%ac-%d8%a7%d9%84%d8%b3%d8%a7%d8%a6%d8%ad-%d8%ad%d8%a7%d8%b1%d8%b3-%d8%b4%d8%ae%d8%b5%d9%8a-%d9%81%d9%8a-%d9%85%d8%b5%d8%b1",
+                "post_title": "هل يحتاج السائح إلى حارس شخصي في مصر؟ حالات الاستخدام وما يجب ترتيبه مسبقًا",
+                "post_parent": 0,
+                "relative_permalink": "/?p=1233",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 27,
+                        "name": "حماية السياح والزوار",
+                        "slug": "%d8%ad%d9%85%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%ad-%d9%88%d8%a7%d9%84%d8%b2%d9%88%d8%a7%d8%b1"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "",
+                    "rank_math_focus_keyword": "حارس شخصي للسياح في مصر"
+                }
+            },
+            {
+                "post_id": 1234,
+                "post_type": "post",
+                "post_status": "draft",
+                "post_name": "%d8%a7%d9%84%d9%81%d8%b1%d9%82-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%b4%d8%ae%d8%b5%d9%8a%d8%a9-%d9%88%d8%ad%d9%85%d8%a7%d9%8a%d8%a9-vip",
+                "post_title": "ما الفرق بين الحماية الشخصية العادية وحماية VIP؟",
+                "post_parent": 0,
+                "relative_permalink": "/?p=1234",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 28,
+                        "name": "حماية VIP",
+                        "slug": "%d8%ad%d9%85%d8%a7%d9%8a%d8%a9-vip"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "",
+                    "rank_math_focus_keyword": "حماية VIP"
+                }
+            },
+            {
+                "post_id": 1235,
+                "post_type": "post",
+                "post_status": "draft",
+                "post_name": "%d8%a7%d9%84%d8%b3%d8%b1%d9%8a%d8%a9-%d9%88%d8%a7%d9%84%d8%ae%d8%b5%d9%88%d8%b5%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%b4%d8%ae%d8%b5%d9%8a%d8%a9",
+                "post_title": "كيف تُدار السرية والخصوصية في مهام الحماية الشخصية؟",
+                "post_parent": 0,
+                "relative_permalink": "/?p=1235",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 29,
+                        "name": "الخصوصية والثقة",
+                        "slug": "%d8%a7%d9%84%d8%ae%d8%b5%d9%88%d8%b5%d9%8a%d8%a9-%d9%88%d8%a7%d9%84%d8%ab%d9%82%d8%a9"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "",
+                    "rank_math_focus_keyword": "سرية الحراسة الشخصية"
+                }
+            },
+            {
+                "post_id": 1251,
+                "post_type": "post",
+                "post_status": "draft",
+                "post_name": "%d8%a7%d9%84%d9%81%d8%b1%d9%82-%d8%a8%d9%8a%d9%86-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%88%d8%ad%d8%a7%d8%b1%d8%b3-%d8%b4%d8%ae%d8%b5%d9%8a-%d9%88%d8%b4%d8%b1%d9%83%d8%a9-%d8%ad%d8%b1",
+                "post_title": "الفرق بين بودي جارد وحارس شخصي وشركة حراسة خاصة",
+                "post_parent": 0,
+                "relative_permalink": "/?p=1251",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 23,
+                        "name": "أدلة الحماية الشخصية",
+                        "slug": "%d8%a3%d8%af%d9%84%d8%a9-%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%b4%d8%ae%d8%b5%d9%8a%d8%a9"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "",
+                    "rank_math_focus_keyword": "الفرق بين بودي جارد وحارس شخصي"
+                }
+            },
+            {
+                "post_id": 1254,
+                "post_type": "post",
+                "post_status": "draft",
+                "post_name": "%d8%a7%d9%84%d9%81%d8%b1%d9%82-%d8%a8%d9%8a%d9%86-%d8%a8%d9%88%d8%af%d9%8a-%d8%ac%d8%a7%d8%b1%d8%af-%d9%88%d8%ad%d8%a7%d8%b1%d8%b3-%d8%b4%d8%ae%d8%b5%d9%8a-%d9%88%d8%b4%d8%b1%d9%83%d8%a9-%d8%ad%d8%b1",
+                "post_title": "الفرق بين بودي جارد وحارس شخصي وشركة حراسة خاصة",
+                "post_parent": 0,
+                "relative_permalink": "/?p=1254",
+                "elementor_managed": false,
+                "categories": [
+                    {
+                        "term_id": 23,
+                        "name": "أدلة الحماية الشخصية",
+                        "slug": "%d8%a3%d8%af%d9%84%d8%a9-%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d8%a9-%d8%a7%d9%84%d8%b4%d8%ae%d8%b5%d9%8a%d8%a9"
+                    }
+                ],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "",
+                    "rank_math_focus_keyword": "الفرق بين بودي جارد وحارس شخصي"
+                }
+            },
+            {
+                "post_id": 1302,
+                "post_type": "page",
+                "post_status": "publish",
+                "post_name": "%d8%a7%d9%84%d8%b1%d8%a6%d9%8a%d8%b3%d9%8a%d8%a9-english",
+                "post_title": "الرئيسية - English",
+                "post_parent": 0,
+                "relative_permalink": "/en/%d8%a7%d9%84%d8%b1%d8%a6%d9%8a%d8%b3%d9%8a%d8%a9-english/",
+                "elementor_managed": false,
+                "categories": [],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "",
+                    "rank_math_focus_keyword": ""
+                }
+            },
+            {
+                "post_id": 1303,
+                "post_type": "page",
+                "post_status": "publish",
+                "post_name": "our-service",
+                "post_title": "Our service",
+                "post_parent": 0,
+                "relative_permalink": "/en/our-service/",
+                "elementor_managed": false,
+                "categories": [],
+                "rankmath": {
+                    "rank_math_title": "خدماتنا | بودي جارد وحراسة خاصة VIP في مصر",
+                    "rank_math_description": "تعرف على خدمات الحراسة الشخصية والحماية الخاصة التي تقدمها Bodyguard Egypt للأفراد ورجال الأعمال والشخصيات المهمة والزوار داخل مصر.",
+                    "rank_math_focus_keyword": "خدمات الحراسة الشخصية في مصر"
+                }
+            },
+            {
+                "post_id": 1503,
+                "post_type": "page",
+                "post_status": "publish",
+                "post_name": "contact-us",
+                "post_title": "Contact Us",
+                "post_parent": 0,
+                "relative_permalink": "/contact-us/",
+                "elementor_managed": true,
+                "categories": [],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "",
+                    "rank_math_focus_keyword": ""
+                }
+            },
+            {
+                "post_id": 1504,
+                "post_type": "page",
+                "post_status": "publish",
+                "post_name": "blog",
+                "post_title": "Blog",
+                "post_parent": 0,
+                "relative_permalink": "/blog/",
+                "elementor_managed": false,
+                "categories": [],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "",
+                    "rank_math_focus_keyword": ""
+                }
+            },
+            {
+                "post_id": 1842,
+                "post_type": "page",
+                "post_status": "publish",
+                "post_name": "home",
+                "post_title": "HOME",
+                "post_parent": 0,
+                "relative_permalink": "/en/",
+                "elementor_managed": true,
+                "categories": [],
+                "rankmath": {
+                    "rank_math_title": "",
+                    "rank_math_description": "",
+                    "rank_math_focus_keyword": ""
+                }
+            }
+        ]
+    }
+}
