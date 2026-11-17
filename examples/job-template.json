@@ -1,0 +1,15 @@
+{
+  "template": true,
+  "task_id": "CONTENT-001",
+  "approved": false,
+  "post_type": "page",
+  "id": 0,
+  "expected_slug": "existing-page",
+  "title": "عنوان الصفحة",
+  "content": "<p>المحتوى المحدّث.</p>",
+  "excerpt": "وصف مختصر",
+  "meta": {
+    "rank_math_title": "عنوان SEO",
+    "rank_math_description": "وصف SEO"
+  }
+}
