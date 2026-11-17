@@ -1,0 +1,53 @@
+name: GardEgypt job runner
+on:
+  push:
+    paths:
+      - "jobs/*.json"
+      - "jobs/**/*.json"
+  workflow_dispatch:
+    inputs:
+      job_path:
+        description: "JSON path under jobs/"
+        required: true
+        type: string
+permissions:
+  contents: read
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Select job files
+        id: jobs
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          BEFORE_SHA: ${{ github.event.before }}
+          JOB_PATH: ${{ inputs.job_path }}
+        run: |
+          if [ "$EVENT_NAME" = "workflow_dispatch" ]; then
+            case "$JOB_PATH" in jobs/*.json|jobs/**/*.json) printf '%s\\n' "$JOB_PATH" > /tmp/job-paths ;; *) echo "Path must be a JSON file under jobs/"; exit 1 ;; esac
+          else
+            git diff --name-only "$BEFORE_SHA" "$GITHUB_SHA" | grep -E '^jobs/.+\\.json$' > /tmp/job-paths || true
+          fi
+          cat /tmp/job-paths
+      - name: Process jobs
+        if: steps.jobs.outcome == 'success'
+        env:
+          GARD_EGYPT_SITE_URL: ${{ secrets.GARD_EGYPT_SITE_URL }}
+          GARD_EGYPT_WP_USER: ${{ secrets.GARD_EGYPT_WP_USER }}
+          GARD_EGYPT_WP_APP_PASSWORD: ${{ secrets.GARD_EGYPT_WP_APP_PASSWORD }}
+        run: |
+          mkdir -p run-reports
+          while IFS= read -r job; do
+            [ -n "$job" ] || continue
+            python worker.py --input "$job" --apply --report "run-reports/$(basename "$job").report.json"
+          done < /tmp/job-paths
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: gardegypt-run-reports
+          path: run-reports/
+          if-no-files-found: ignore
